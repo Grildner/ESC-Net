@@ -24,7 +24,7 @@ edit `eval.py` to test the model trained
 
 ### dataset
 
-using SIMD dataset. check `dataset.yaml` for details.
+using CrowdHuman and SportsMOT dataset. check `dataset.yaml` for details.
 
 ### file location
 
